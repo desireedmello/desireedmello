@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desireedmello
 - 👀 I’m interested in designing and learning new codes.
-- 🌱 I’m currently learning python and working on my thesis for my masters.
+- 🌱 I’m currently learning python and working on projects related to it.
 - 💞️ I’m looking to collaborate on Java, C++, MySql, WordPress, Python projects.
 - 📫 How to reach me desiree2dmello@gmail.com
 
