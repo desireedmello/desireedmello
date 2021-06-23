@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @desireedmello
+- 👋 Hi, I’m Desiree.
 - 👀 I’m interested in designing and learning new codes.
 - 🌱 I’m currently learning python and working on projects related to it.
 - 💞️ I’m looking to collaborate on Java, C++, MySql, WordPress, Python projects.
