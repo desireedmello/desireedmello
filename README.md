@@ -7,6 +7,12 @@ With a background in AI instruction and customer-facing roles, I bring both tech
 
 ---
 
+## ✍️ Writing & Content
+I share insights, projects, and data-related articles on Medium:  
+👉 https://medium.com/@desiree2dmello  
+
+---
+
 ## 🔍 What I Do
 - 📊 Data Analysis & Visualization  
 - 🧹 Data Cleaning & Preprocessing  
