@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Desiree D’Mello
 
-<img width="1983" height="793" alt="ad25d4a9-bf67-411c-b47e-54a93478d435" src="https://github.com/user-attachments/assets/07e92a3d-f8e7-4c61-944f-8b828b9cb396" />
+<img width="1983" height="793" alt="fcfe6259-400c-483b-9f93-84f9b47506c5" src="https://github.com/user-attachments/assets/bdbefd3a-00ae-4105-9ca8-2db5d50ebcac" />
 
 ## 💼 Data Analyst | Python • SQL • Power BI  
 
